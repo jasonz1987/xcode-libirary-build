@@ -1,0 +1,1 @@
+shell script for build xcode framework or static libriray.
